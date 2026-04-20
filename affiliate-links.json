@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-04-11T17:36:23.879Z",
+  "version": 2,
+  "updatedAt": "2026-04-20T02:19:22.892Z",
   "productUrls": {
     "pre_emergent_prodiamine_granular_good_safeguard_0_0_7_pre_emergent": "https://amzn.to/46uoHNd",
     "pre_emergent_prodiamine_granular_better_yard_mastery_0_0_7_prodiamine": "https://amzn.to/4u37p3G",
@@ -271,5 +271,1121 @@
     "B002JAKRAM": "https://amzn.to/4cr4r2V",
     "B00UXG4WR8": "https://amzn.to/4shQadq",
     "B00VBP8QPO": "https://amzn.to/4rMsTjY"
+  },
+  "slots": {
+    "pre_emergent_prodiamine_granular.slotA": {
+      "name": "Safeguard 0-0-7 Pre-Emergent Lawn Fertilizer (.37% Prodiamine)",
+      "retailer": "Amazon",
+      "asin": "B0CK63NLSW",
+      "url": "https://amzn.to/46uoHNd",
+      "tier": "good",
+      "subtitle": "Prodiamine pre-emergent (granular)"
+    },
+    "pre_emergent_prodiamine_granular.slotB": {
+      "name": "Yard Mastery 0-0-7 Prodiamine Pre-Emergent (granular)",
+      "retailer": "Amazon",
+      "asin": "B0CV1RJR2T",
+      "url": "https://amzn.to/4u37p3G",
+      "tier": "better",
+      "subtitle": "Prodiamine pre-emergent (granular)"
+    },
+    "pre_emergent_prodiamine_granular.slotC": {
+      "name": "The Andersons Barricade (Prodiamine)",
+      "retailer": "Amazon",
+      "asin": "B0911NQXSR",
+      "url": "https://amzn.to/4rPSHfc",
+      "tier": "best",
+      "subtitle": "Prodiamine pre-emergent (granular)"
+    },
+    "lawn_core_aeration.slotA": {
+      "name": "Yard Butler Manual Lawn Coring Aerator (ID-6C)",
+      "retailer": "Amazon",
+      "asin": "B00EOMCJD6",
+      "url": "https://amzn.to/4aHyOkf",
+      "tier": "good",
+      "subtitle": "Best for small lawns / spot areas"
+    },
+    "lawn_core_aeration.slotB": {
+      "name": "Step ‘N Tilt Core Lawn Aerator (Version 4 Kit)",
+      "retailer": "Amazon",
+      "asin": "B0CWKZZWBQ",
+      "url": "https://amzn.to/4u1oUl9",
+      "tier": "better",
+      "subtitle": "Manual core aerator"
+    },
+    "lawn_core_aeration.slotC": {
+      "name": "K.D STONEDGE Rolling Lawn Coring Aerator (manual push roller)",
+      "retailer": "Amazon",
+      "asin": "B0D9LCPXTY",
+      "url": "https://amzn.to/3MYF1Pz",
+      "tier": "best",
+      "subtitle": "Manual push roller core aerator"
+    },
+    "pre_emergent_dithiopyr_granular.slotA": {
+      "name": "Yard Mastery 0-0-7 Dimension (Dithiopyr) Pre-Emergent (granular)",
+      "retailer": "Amazon",
+      "asin": "B0FMJ949QC",
+      "url": "https://amzn.to/404errh",
+      "tier": "good",
+      "subtitle": "Dithiopyr pre-emergent (granular)"
+    },
+    "pre_emergent_dithiopyr_granular.slotB": {
+      "name": "Dimension DG Pro (Dithiopyr) granular",
+      "retailer": "Amazon",
+      "asin": "B073DR4FKP",
+      "url": "https://amzn.to/4qZkWa1",
+      "tier": "better",
+      "subtitle": "Dithiopyr pre-emergent (granular)"
+    },
+    "pre_emergent_dithiopyr_granular.slotC": {
+      "name": "Dimension 2EW (Dithiopyr) liquid concentrate",
+      "retailer": "Amazon",
+      "asin": "B0051GXXPW",
+      "url": "https://amzn.to/4clL0bM",
+      "tier": "best",
+      "subtitle": "Dithiopyr pre-emergent (liquid)",
+      "note": "Requires mixing + careful application. Follow label directions."
+    },
+    "fert_warm_slow_release.slotA": {
+      "name": "Scotts Turf Builder Lawn Food",
+      "retailer": "Amazon",
+      "asin": "B005W1QXQW",
+      "url": "https://amzn.to/3P7Bteu",
+      "tier": "good",
+      "subtitle": "Fertilizer (NPK varies by bag; commonly 32-0-4)"
+    },
+    "fert_warm_slow_release.slotB": {
+      "name": "Milorganite Slow-Release Nitrogen Fertilizer (organic-style)",
+      "retailer": "Amazon",
+      "asin": "B07YZPKRQQ",
+      "url": "https://amzn.to/40Dd6b8",
+      "tier": "better",
+      "subtitle": "Slow-release nitrogen fertilizer"
+    },
+    "fert_warm_slow_release.slotC": {
+      "name": "The Andersons Professional 16-4-8 (PGF Complete) with Humic",
+      "retailer": "Amazon",
+      "asin": "B09TLBRQBK",
+      "url": "https://amzn.to/4singdd",
+      "tier": "best",
+      "subtitle": "Pro-style fertilizer with humic"
+    },
+    "fert_cool_fall_primary.slotA": {
+      "name": "Scotts Turf Builder Lawn Food",
+      "retailer": "Amazon",
+      "asin": "B005W1QXQW",
+      "url": "https://amzn.to/4rKyJ5x",
+      "tier": "good",
+      "subtitle": "Fall feeding (NPK varies by bag; commonly 32-0-4)"
+    },
+    "fert_cool_fall_primary.slotB": {
+      "name": "Milorganite Slow-Release Nitrogen Fertilizer",
+      "retailer": "Amazon",
+      "asin": "B07YZPKRQQ",
+      "url": "https://amzn.to/403dAY0",
+      "tier": "better",
+      "subtitle": "Slow-release nitrogen fertilizer"
+    },
+    "fert_cool_fall_primary.slotC": {
+      "name": "The Andersons Professional 16-4-8 (PGF Complete) with Humic",
+      "retailer": "Amazon",
+      "asin": "B09TLBRQBK",
+      "url": "https://amzn.to/4u2wj3A",
+      "tier": "best",
+      "subtitle": "Pro-style fertilizer with humic"
+    },
+    "iron_color_boost.slotA": {
+      "name": "Southern Ag Chelated Liquid Iron (16 oz)",
+      "retailer": "Amazon",
+      "asin": "B00A528VOK",
+      "url": "https://amzn.to/4tSHuvA",
+      "tier": "good",
+      "subtitle": "Chelated iron (liquid)"
+    },
+    "iron_color_boost.slotB": {
+      "name": "Ferti-Lome Chelated Liquid Iron (1 gal)",
+      "retailer": "Amazon",
+      "asin": "B000NCTK42",
+      "url": "https://amzn.to/4kYoRCq",
+      "tier": "better",
+      "subtitle": "Chelated iron (liquid)"
+    },
+    "iron_color_boost.slotC": {
+      "name": "Simple Lawn Solutions Advanced 16-4-8 (with iron)",
+      "retailer": "Amazon",
+      "asin": "B06XWFL84R",
+      "url": "https://amzn.to/4kYPG9s",
+      "tier": "best",
+      "subtitle": "16-4-8 liquid (green + color boost)"
+    },
+    "post_broadleaf_3way_selective.slotA": {
+      "name": "Ortho WeedClear (ready-to-spray)",
+      "retailer": "Amazon",
+      "asin": "B072BXKFZK",
+      "url": "https://amzn.to/46VVMBN",
+      "tier": "good",
+      "subtitle": "Broadleaf weed killer (RTS)"
+    },
+    "post_broadleaf_3way_selective.slotB": {
+      "name": "Ortho WeedClear (concentrate)",
+      "retailer": "Amazon",
+      "asin": "B07YM5S514",
+      "url": "https://amzn.to/4atgg7e",
+      "tier": "better",
+      "subtitle": "Broadleaf weed killer (concentrate)"
+    },
+    "post_broadleaf_3way_selective.slotC": {
+      "name": "Ortho WeedClear (concentrate — large size)",
+      "retailer": "Amazon",
+      "asin": "B071LH73XJ",
+      "url": "https://amzn.to/46kme7W",
+      "tier": "best",
+      "subtitle": "Broadleaf weed killer (concentrate)"
+    },
+    "post_emergent_general_turf.slotA": {
+      "name": "Ortho WeedClear (ready-to-spray)",
+      "retailer": "Amazon",
+      "asin": "B072BXKFZK",
+      "url": "https://amzn.to/4cSUIlR",
+      "tier": "good",
+      "subtitle": "Broadleaf weed killer (RTS)"
+    },
+    "post_emergent_general_turf.slotB": {
+      "name": "Ortho WeedClear (Concentrate)",
+      "retailer": "Amazon",
+      "asin": "B07YM5S514",
+      "url": "https://amzn.to/4atgg7e",
+      "tier": "better",
+      "subtitle": "Broadleaf weed killer (concentrate)"
+    },
+    "post_emergent_general_turf.slotC": {
+      "name": "Gordon’s SpeedZone Lawn Weed Killer (Concentrate)",
+      "retailer": "Amazon",
+      "asin": "B00C4Y24RM",
+      "url": "https://amzn.to/4snxGs5",
+      "tier": "best",
+      "subtitle": "Fast-acting broadleaf weed killer (concentrate)",
+      "note": "Requires mixing + careful application. Follow label directions."
+    },
+    "post_emergent_st_aug_zoysia_safe.slotA": {
+      "name": "Southern Ag Atrazine (St. Augustine Weed Killer)",
+      "retailer": "Amazon",
+      "asin": "B0052MZBYQ",
+      "url": "https://amzn.to/4smQ7x8",
+      "tier": "good",
+      "subtitle": "Atrazine-based option (follow label)"
+    },
+    "post_emergent_st_aug_zoysia_safe.slotB": {
+      "name": "Image Southern Lawn Weed Killer (Concentrate)",
+      "retailer": "Amazon",
+      "asin": "B079H2MRSN",
+      "url": "https://amzn.to/46yfQtW",
+      "tier": "better",
+      "subtitle": "Warm-season selective weed control (follow label)"
+    },
+    "post_emergent_st_aug_zoysia_safe.slotC": {
+      "name": "Celsius WG (warm-season selective post-emergent)",
+      "retailer": "Amazon",
+      "asin": "B0BTN1DPMD",
+      "url": "https://amzn.to/4rJ6qo1",
+      "tier": "best",
+      "subtitle": "Pro-grade selective post-emergent (warm-season)",
+      "note": "Requires mixing + careful application. Follow label directions."
+    },
+    "pest_perimeter_spray.slotA": {
+      "name": "Wondercide (plant-based) — outdoor pest control (hose-end)",
+      "retailer": "Amazon",
+      "asin": "B074HZHPD9",
+      "url": "https://amzn.to/4u38kkE",
+      "tier": "good",
+      "subtitle": "Natural / essential oil option for outdoor perimeter"
+    },
+    "pest_perimeter_spray.slotB": {
+      "name": "Ortho Home Defense Indoor & Perimeter",
+      "retailer": "Amazon",
+      "asin": "B01N0TGJHB",
+      "url": "https://amzn.to/4kZ7Rfi",
+      "tier": "good",
+      "subtitle": "Simple, mainstream choice"
+    },
+    "pest_perimeter_spray.slotC": {
+      "name": "Spectracide Bug Stop Home Barrier",
+      "retailer": "Amazon",
+      "asin": "B00SY3P988",
+      "url": "https://amzn.to/4u73Fyo",
+      "tier": "better",
+      "subtitle": "Mainstream barrier spray (foundation + entry points)"
+    },
+    "pest_perimeter_spray.slotD": {
+      "name": "Compare-N-Save 7.9% Bifenthrin concentrate",
+      "retailer": "Amazon",
+      "asin": "B00ARKSC4E",
+      "url": "https://amzn.to/4cgYNAc",
+      "tier": "best",
+      "subtitle": "Concentrate (mix + spray) for long residual"
+    },
+    "pest_perimeter_spray.slotE": {
+      "name": "Bifen I/T 7.9% (bifenthrin) — concentrate",
+      "retailer": "Amazon",
+      "asin": "B00DGUY2LO",
+      "url": "https://amzn.to/4r65YPv",
+      "tier": "best",
+      "subtitle": "Concentrate (mix + spray) — pro-style coverage"
+    },
+    "pest_perimeter_spray.slotF": {
+      "name": "Demand CS (lambda-cyhalothrin) — pro-grade concentrate",
+      "retailer": "Amazon",
+      "asin": "B002Y6BC1O",
+      "url": "https://amzn.to/4aWYybf",
+      "tier": "best",
+      "subtitle": "Pro-grade concentrate (mix + spray) — long residual",
+      "note": "Strongest option. Read the label and mix carefully."
+    },
+    "pest_indoor_spot_treat.slotA": {
+      "name": "Wondercide (plant-based) — indoor pest control (RTU)",
+      "retailer": "Amazon",
+      "asin": "B0764VD7ZW",
+      "url": "https://amzn.to/4rn9R2N",
+      "tier": "good",
+      "subtitle": "Natural / essential oil indoor spot spray"
+    },
+    "pest_indoor_spot_treat.slotB": {
+      "name": "Raid Ant & Roach Killer (Fragrance Free)",
+      "retailer": "Amazon",
+      "asin": "B00NES7LMU",
+      "url": "https://amzn.to/4r9CEaN",
+      "tier": "good",
+      "subtitle": "Indoor aerosol spot kill + residual"
+    },
+    "pest_indoor_spot_treat.slotC": {
+      "name": "Hot Shot Ant, Roach & Spider Killer",
+      "retailer": "Amazon",
+      "asin": "B07L1GDCGB",
+      "url": "https://amzn.to/403VBk4",
+      "tier": "better",
+      "subtitle": "Another mainstream indoor aerosol option"
+    },
+    "pest_indoor_spot_treat.slotD": {
+      "name": "Ortho Home Defense Indoor Barrier",
+      "retailer": "Amazon",
+      "asin": "B01N0TGJHB",
+      "url": "https://amzn.to/3P9pVHF",
+      "tier": "best",
+      "subtitle": "Indoor crack & crevice / perimeter (long residual)"
+    },
+    "home_ac_filter_generic.slotA": {
+      "name": "Filtrete AC filter (select your size)",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.com/s?k=filtrete%2016x25x1%20air%20filter",
+      "tier": "good",
+      "note": "We will personalize this once you enter your filter size."
+    },
+    "home_fridge_water_filter_generic.slotA": {
+      "name": "Refrigerator water filter (select your type)",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.com/s?k=refrigerator%20water%20filter",
+      "tier": "better",
+      "note": "Enter your fridge brand/model during onboarding to get an exact match."
+    },
+    "home_cleaning_kitchen_reset.slotA": {
+      "name": "Amazon Basics Microfiber Cleaning Cloths (Pack of 24)",
+      "retailer": "Amazon",
+      "asin": "B009FUF6DM",
+      "url": "https://amzn.to/4r1OHqo",
+      "tier": "good",
+      "subtitle": "Reusable for counters + stainless + glass"
+    },
+    "home_cleaning_kitchen_reset.slotB": {
+      "name": "Clorox Disinfecting Cleaning Wipes (Bleach Free)",
+      "retailer": "Amazon",
+      "asin": "B000V5NVXW",
+      "url": "https://amzn.to/4uhue42",
+      "tier": "good",
+      "subtitle": "Fast wipe-down for high-touch surfaces"
+    },
+    "home_cleaning_kitchen_reset.slotC": {
+      "name": "Dawn Platinum Powerwash Dish Spray (Starter Kit)",
+      "retailer": "Amazon",
+      "asin": "B082DLGV3F",
+      "url": "https://amzn.to/4u2wXy2",
+      "tier": "good",
+      "subtitle": "Great degreaser for stove + sink cleanup"
+    },
+    "home_cleaning_bathroom_reset.slotA": {
+      "name": "Scrubbing Bubbles Bathroom Cleaner (Spray)",
+      "retailer": "Amazon",
+      "asin": "B0D9PHX14S",
+      "url": "https://amzn.to/4l1OUst",
+      "tier": "good",
+      "subtitle": "Quick spray for sink + counter + shower surfaces"
+    },
+    "home_cleaning_bathroom_reset.slotB": {
+      "name": "Lysol Toilet Bowl Cleaner (Max Strength)",
+      "retailer": "Amazon",
+      "asin": "B00371VM0Q",
+      "url": "https://amzn.to/3OD5va1",
+      "tier": "good",
+      "subtitle": "Fast weekly toilet refresh"
+    },
+    "home_cleaning_bathroom_reset.slotC": {
+      "name": "OXO Good Grips Deep Clean Brush Set",
+      "retailer": "Amazon",
+      "asin": "B003M8GMS6",
+      "url": "https://amzn.to/4u1pOy3",
+      "tier": "good",
+      "subtitle": "Best for grout/edges/fixtures + hard-to-reach spots"
+    },
+    "home_cleaning_vacuum_mop.slotA": {
+      "name": "Swiffer Sweeper Starter Kit (Dry + Wet)",
+      "retailer": "Amazon",
+      "asin": "B07YQDH1N1",
+      "url": "https://amzn.to/4aZOlea",
+      "tier": "good",
+      "subtitle": "Easy weekly sweep + quick damp-clean"
+    },
+    "home_cleaning_vacuum_mop.slotB": {
+      "name": "O-Cedar EasyWring Microfiber Spin Mop + Bucket System",
+      "retailer": "Amazon",
+      "asin": "B00WSWGVZQ",
+      "url": "https://amzn.to/4qZelMz",
+      "tier": "good",
+      "subtitle": "Reusable mop system for tile/vinyl/laminate"
+    },
+    "home_cleaning_vacuum_mop.slotC": {
+      "name": "Shark Navigator Lift-Away Upright Vacuum (NV352)",
+      "retailer": "Amazon",
+      "asin": "B004Q4DRJW",
+      "url": "https://amzn.to/3MWLaM7",
+      "tier": "good",
+      "subtitle": "Reliable all-around vacuum (step up from budget stick vacs)"
+    },
+    "home_cleaning_deep_clean_rotation.slotA": {
+      "name": "Mr. Clean Magic Eraser (Original)",
+      "retailer": "Amazon",
+      "asin": "B07MF3DY3C",
+      "url": "https://amzn.to/4aYIw0v",
+      "tier": "good",
+      "subtitle": "Great for scuffs, baseboards, doors, and wall marks"
+    },
+    "home_cleaning_deep_clean_rotation.slotB": {
+      "name": "Swiffer Duster Kit (Extendable Handle)",
+      "retailer": "Amazon",
+      "asin": "B001TQ6IHS",
+      "url": "https://amzn.to/4r4j13M",
+      "tier": "good",
+      "subtitle": "Ceiling fans, vents, blinds, hard-to-reach dust"
+    },
+    "home_cleaning_deep_clean_rotation.slotC": {
+      "name": "OXO Good Grips Deep Clean Brush Set",
+      "retailer": "Amazon",
+      "asin": "B003M8GMS6",
+      "url": "https://amzn.to/3MWLdHN",
+      "tier": "good",
+      "subtitle": "Detail brush for crevices, tracks, grout, fixtures"
+    },
+    "home_ac_filter_generic.16x25x1.slotA": {
+      "name": "Filterbuy 16x25x1 (MERV 8) — multi-pack",
+      "retailer": "Amazon",
+      "asin": "B01MSP50CY",
+      "url": "https://amzn.to/4r7yTT3",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.16x25x1.slotB": {
+      "name": "Honeywell 16x25x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDW9M1K8",
+      "url": "https://amzn.to/46Axnlf",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.16x25x1.slotC": {
+      "name": "Honeywell 16x25x1 MERV 12 (Allergen Control 12000)",
+      "retailer": "Amazon",
+      "asin": "B0CQKL47VG",
+      "url": "https://amzn.to/4r44KEm",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.20x20x1.slotA": {
+      "name": "Filterbuy 20x20x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CK025GK",
+      "url": "https://amzn.to/40HvO1f",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.20x20x1.slotB": {
+      "name": "Honeywell 20x20x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDVWX5B4",
+      "url": "https://amzn.to/4r9bp07",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.20x20x1.slotC": {
+      "name": "Honeywell 20x20x1 MERV 12 (Allergen Control 12000)",
+      "retailer": "Amazon",
+      "asin": "B0CQKMK8ZM",
+      "url": "https://amzn.to/47bTluT",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.20x25x1.slotA": {
+      "name": "Filterbuy 20x25x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CK027SG",
+      "url": "https://amzn.to/47bTmir",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.20x25x1.slotB": {
+      "name": "Honeywell 20x25x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDW4G8FJ",
+      "url": "https://amzn.to/4008ITx",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.20x25x1.slotC": {
+      "name": "Honeywell 20x25x1 MERV 12 (Allergen Control 12000)",
+      "retailer": "Amazon",
+      "asin": "B0CQKKF3ZH",
+      "url": "https://amzn.to/4sgweHR",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.20x30x1.slotA": {
+      "name": "Filterbuy 20x30x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CK028C6",
+      "url": "https://amzn.to/4tXywgN",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.20x30x1.slotB": {
+      "name": "Honeywell 20x30x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDVZNQ8V",
+      "url": "https://amzn.to/46x44Qs",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.20x30x1.slotC": {
+      "name": "Honeywell 20x30x1 MERV 12 (Allergen Control 12000)",
+      "retailer": "Amazon",
+      "asin": "B0CQKJRYJK",
+      "url": "https://amzn.to/4u38Mzm",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.16x20x1.slotA": {
+      "name": "Filterbuy 16x20x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CJZ836C",
+      "url": "https://amzn.to/3MWQxLs",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.16x20x1.slotB": {
+      "name": "Honeywell 16x20x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDVSKGZN",
+      "url": "https://amzn.to/4rFduSn",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.16x20x1.slotC": {
+      "name": "Honeywell 16x20x1 MERV 12 (Allergen Control 12000)",
+      "retailer": "Amazon",
+      "asin": "B0CQKMZ5YF",
+      "url": "https://amzn.to/3Ozak4b",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.14x20x1.slotA": {
+      "name": "Filterbuy 14x20x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CJZ7TIA",
+      "url": "https://amzn.to/4u0JZvN",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.14x20x1.slotB": {
+      "name": "Honeywell 14x20x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDVQNVPT",
+      "url": "https://amzn.to/3MYGllv",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.14x20x1.slotC": {
+      "name": "Honeywell 14x20x1 MERV 12 (Allergen Control 12000)",
+      "retailer": "Amazon",
+      "asin": "B0DDW9NPMV",
+      "url": "https://amzn.to/4u74gA8",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.14x25x1.slotA": {
+      "name": "Filterbuy 14x25x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CK057JM",
+      "url": "https://amzn.to/40HvSy1",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.14x25x1.slotB": {
+      "name": "Honeywell 14x25x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDVYNDV7",
+      "url": "https://amzn.to/4r9D9Sd",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.14x25x1.slotC": {
+      "name": "Honeywell 14x25x1 MERV 12 (Allergen Control 12000)",
+      "retailer": "Amazon",
+      "asin": "B0CQKM3T59",
+      "url": "https://amzn.to/403W31K",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.24x24x1.slotA": {
+      "name": "Filterbuy 24x24x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CK02FZQ",
+      "url": "https://amzn.to/3Na5dqA",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.24x24x1.slotB": {
+      "name": "Honeywell 24x24x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDVVY5Q3",
+      "url": "https://amzn.to/4qZwEkH",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.24x24x1.slotC": {
+      "name": "Filtrete 24x24x1 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B07FP5RWNY",
+      "url": "https://amzn.to/4aNHhkw",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.24x30x1.slotA": {
+      "name": "Filterbuy 24x30x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CJZ92T4",
+      "url": "https://amzn.to/4sgzT8s",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.24x30x1.slotB": {
+      "name": "Filtrete 24x30x1 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B07FP5X5JB",
+      "url": "https://amzn.to/4b2ZBXd",
+      "tier": "better",
+      "subtitle": "Micro Allergen Defense (MERV 11)"
+    },
+    "home_ac_filter_generic.24x30x1.slotC": {
+      "name": "Filtrete 24x30x1 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B07FNQVQYV",
+      "url": "https://amzn.to/4aWZbS9",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.18x24x1.slotA": {
+      "name": "Filterbuy 18x24x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CJZ8EKW",
+      "url": "https://amzn.to/3NbcaHZ",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.18x24x1.slotB": {
+      "name": "Filtrete 18x24x1 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B07FNW3PV6",
+      "url": "https://amzn.to/4sgwmHl",
+      "tier": "better",
+      "subtitle": "Micro Allergen Defense (MERV 11)"
+    },
+    "home_ac_filter_generic.18x24x1.slotC": {
+      "name": "Filtrete 18x24x1 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B07FNXPL1N",
+      "url": "https://amzn.to/4sgwnen",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.25x25x1.slotA": {
+      "name": "Filterbuy 25x25x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CJZ93ZM",
+      "url": "https://amzn.to/3P8Hd7L",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.25x25x1.slotB": {
+      "name": "Filtrete 25x25x1 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B07FNQT9ZY",
+      "url": "https://amzn.to/4scgs0A",
+      "tier": "better",
+      "subtitle": "Micro Allergen Defense (MERV 11)"
+    },
+    "home_ac_filter_generic.25x25x1.slotC": {
+      "name": "Filtrete 25x25x1 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B07FP5X128",
+      "url": "https://amzn.to/4clMqD8",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.12x20x1.slotA": {
+      "name": "Filterbuy 12x20x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CK00Y0O",
+      "url": "https://amzn.to/4rGZQhv",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.12x20x1.slotB": {
+      "name": "Honeywell 12x20x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDVV99FS",
+      "url": "https://amzn.to/46AxKfD",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.12x20x1.slotC": {
+      "name": "Honeywell 12x20x1 MERV 12 (Allergen Control 12000)",
+      "retailer": "Amazon",
+      "asin": "B0CQKKXT5P",
+      "url": "https://amzn.to/3OS3mam",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.14x24x1.slotA": {
+      "name": "Filterbuy 14x24x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CK01AQ6",
+      "url": "https://amzn.to/3OQEeAQ",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.14x24x1.slotB": {
+      "name": "Honeywell 14x24x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDVZMDG6",
+      "url": "https://amzn.to/3OH9e6r",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.14x24x1.slotC": {
+      "name": "Filtrete 14x24x1 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B07FNZMY93",
+      "url": "https://amzn.to/4rKeZPm",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.18x18x1.slotA": {
+      "name": "Filterbuy 18x18x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CJZ8CTK",
+      "url": "https://amzn.to/4aJnzb9",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.18x18x1.slotB": {
+      "name": "Filtrete 18x18x1 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B07FP5X4GW",
+      "url": "https://amzn.to/4l2qi2D",
+      "tier": "better",
+      "subtitle": "Micro Allergen Defense (MERV 11)"
+    },
+    "home_ac_filter_generic.18x18x1.slotC": {
+      "name": "Filtrete 18x18x1 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B07FP5XDML",
+      "url": "https://amzn.to/4u2GRQ8",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.24x36x1.slotA": {
+      "name": "Filterbuy 24x36x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CK02HIG",
+      "url": "https://amzn.to/3OEGECF",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.24x36x1.slotB": {
+      "name": "AIRx Filters 24x36x1 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B077G8F5Q9",
+      "url": "https://amzn.to/4r7M5Ym",
+      "tier": "better",
+      "subtitle": "Higher filtration (MERV 11)"
+    },
+    "home_ac_filter_generic.24x36x1.slotC": {
+      "name": "24x36x1 Exact MERV 12 AC furnace filters (6 pack)",
+      "retailer": "Amazon",
+      "asin": "B00FEHA5EA",
+      "url": "https://amzn.to/4rMBDXp",
+      "tier": "best",
+      "subtitle": "Premium filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.16x25x2.slotA": {
+      "name": "Filterbuy 16x25x2 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CK048XS",
+      "url": "https://amzn.to/46Achn0",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.16x25x2.slotB": {
+      "name": "Filtrete 16x25x2 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B086VR1FCC",
+      "url": "https://amzn.to/3OSlyAF",
+      "tier": "better",
+      "subtitle": "Allergen Defense (MERV 11)"
+    },
+    "home_ac_filter_generic.16x25x2.slotC": {
+      "name": "Nordic Pure 16x25x2 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B005ESPJ4K",
+      "url": "https://amzn.to/46st2R6",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.20x25x2.slotA": {
+      "name": "Filterbuy 20x25x2 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CJZ6QL6",
+      "url": "https://amzn.to/4shQmsX",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.20x25x2.slotB": {
+      "name": "Filtrete 20x25x2 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B086VQK3PL",
+      "url": "https://amzn.to/4u2lv5x",
+      "tier": "better",
+      "subtitle": "Allergen Defense (MERV 11)"
+    },
+    "home_ac_filter_generic.20x25x2.slotC": {
+      "name": "Nordic Pure 20x25x2 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B005ESPCLK",
+      "url": "https://amzn.to/4tXFeU5",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.20x20x2.slotA": {
+      "name": "Filterbuy 20x20x2 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CK04JYQ",
+      "url": "https://amzn.to/4rJ6qnK",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.20x20x2.slotB": {
+      "name": "Filtrete 20x20x2 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B086VPNPY2",
+      "url": "https://amzn.to/4rPUNM6",
+      "tier": "better",
+      "subtitle": "Allergen Defense (MERV 11)"
+    },
+    "home_ac_filter_generic.20x20x2.slotC": {
+      "name": "Nordic Pure 20x20x2 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B005ESOX1A",
+      "url": "https://amzn.to/46x4HcM",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.16x20x2.slotA": {
+      "name": "Filterbuy 16x20x2 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B01MAV2SG9",
+      "url": "https://amzn.to/478mcQT",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.16x20x2.slotB": {
+      "name": "Filtrete 16x20x2 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B086VQCBRV",
+      "url": "https://amzn.to/4uktIlV",
+      "tier": "better",
+      "subtitle": "Allergen Defense (MERV 11)"
+    },
+    "home_ac_filter_generic.16x20x2.slotC": {
+      "name": "Nordic Pure 16x20x2 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B005ESPA1M",
+      "url": "https://amzn.to/4aHPJTJ",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.10x20x1.slotA": {
+      "name": "Filterbuy 10x20x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B09B47B3NC",
+      "url": "https://amzn.to/40DeSZQ",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.10x20x1.slotB": {
+      "name": "Honeywell 10x20x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDVLZY4G",
+      "url": "https://amzn.to/4r6q9Nk",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.10x20x1.slotC": {
+      "name": "Filtrete 10x20x1 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B07FNXPN4P",
+      "url": "https://amzn.to/406H5In",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.12x12x1.slotA": {
+      "name": "Filterbuy 12x12x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CJZ7KJ8",
+      "url": "https://amzn.to/4cVF60Z",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.12x12x1.slotB": {
+      "name": "Honeywell 12x12x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDW1X2NW",
+      "url": "https://amzn.to/4r9DRPn",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.12x12x1.slotC": {
+      "name": "Filtrete 12x12x1 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B07FP5XDM2",
+      "url": "https://amzn.to/4redV5m",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.12x24x1.slotA": {
+      "name": "Filterbuy 12x24x1 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CJZ7MLO",
+      "url": "https://amzn.to/4cS3EIe",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.12x24x1.slotB": {
+      "name": "Honeywell 12x24x1 MERV 11 (Allergen Reducer 11000)",
+      "retailer": "Amazon",
+      "asin": "B0DDVK3ZMR",
+      "url": "https://amzn.to/4cEpDTd",
+      "tier": "better",
+      "subtitle": "Honeywell electrostatic pleated (MERV 11)"
+    },
+    "home_ac_filter_generic.12x24x1.slotC": {
+      "name": "Filtrete 12x24x1 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B00TUDHIOO",
+      "url": "https://amzn.to/4clMYJc",
+      "tier": "best",
+      "subtitle": "Higher filtration (MERV 12)"
+    },
+    "home_ac_filter_generic.16x25x4.slotA": {
+      "name": "Filterbuy 16x25x4 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B00CK03DUC",
+      "url": "https://amzn.to/4aSZMnL",
+      "tier": "good",
+      "subtitle": "Made in USA (value pick)"
+    },
+    "home_ac_filter_generic.16x25x4.slotB": {
+      "name": "Filtrete 16x25x4 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B09RQCMR5V",
+      "url": "https://amzn.to/3NchBq5",
+      "tier": "better",
+      "subtitle": "Allergen Defense (fits many cabinets)"
+    },
+    "home_ac_filter_generic.16x25x4.slotC": {
+      "name": "Filtrete 16x25x4 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B01MU27H6V",
+      "url": "https://amzn.to/3NalRGz",
+      "tier": "best",
+      "subtitle": "Higher filtration deep-pleat (MERV 12)"
+    },
+    "home_ac_filter_generic.20x25x4.slotA": {
+      "name": "Filterbuy 20x25x4 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B00CK03UWS",
+      "url": "https://amzn.to/4rTUVtG",
+      "tier": "good",
+      "subtitle": "Value pick (verify exact size fit)"
+    },
+    "home_ac_filter_generic.20x25x4.slotB": {
+      "name": "Filtrete 20x25x4 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B01MU27I27",
+      "url": "https://amzn.to/4rDgK0F",
+      "tier": "better",
+      "subtitle": "Allergen Defense deep-pleat"
+    },
+    "home_ac_filter_generic.20x25x4.slotC": {
+      "name": "Filtrete 20x25x4 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B09RQCWV3L",
+      "url": "https://amzn.to/3Na6ePq",
+      "tier": "best",
+      "subtitle": "Higher filtration deep-pleat (MERV 12)"
+    },
+    "home_ac_filter_generic.20x20x4.slotA": {
+      "name": "Filterbuy 20x20x4 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B00CK03SFC",
+      "url": "https://amzn.to/4sjU8Ch",
+      "tier": "good",
+      "subtitle": "Value pick (MERV 11)"
+    },
+    "home_ac_filter_generic.20x20x4.slotB": {
+      "name": "Filtrete 20x20x4 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B09RQBH847",
+      "url": "https://amzn.to/3OSlRvj",
+      "tier": "better",
+      "subtitle": "Allergen Defense deep-pleat (MERV 11)"
+    },
+    "home_ac_filter_generic.20x20x4.slotC": {
+      "name": "Filtrete 20x20x4 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B000PJ48C2",
+      "url": "https://amzn.to/4siAirc",
+      "tier": "best",
+      "subtitle": "Higher filtration deep-pleat (MERV 12)"
+    },
+    "home_ac_filter_generic.16x20x4.slotA": {
+      "name": "Filterbuy 16x20x4 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B00CK03CDU",
+      "url": "https://amzn.to/3OGA1zI",
+      "tier": "good",
+      "subtitle": "Value pick (MERV 11)"
+    },
+    "home_ac_filter_generic.16x20x4.slotB": {
+      "name": "Filterbuy 16x20x4 (MERV 11) — multi-pack",
+      "retailer": "Amazon",
+      "asin": "B00CK03QWM",
+      "url": "https://amzn.to/476hEuh",
+      "tier": "better",
+      "subtitle": "Good value multi-pack (MERV 11)"
+    },
+    "home_ac_filter_generic.16x20x4.slotC": {
+      "name": "Filtrete 16x20x4 (MERV 12)",
+      "retailer": "Amazon",
+      "asin": "B086DYVPW2",
+      "url": "https://amzn.to/4rTV4gI",
+      "tier": "best",
+      "subtitle": "Higher filtration deep-pleat (MERV 12)"
+    },
+    "home_ac_filter_generic.25x25x4.slotA": {
+      "name": "Filterbuy 25x25x4 (MERV 8)",
+      "retailer": "Amazon",
+      "asin": "B00CJZ9V9A",
+      "url": "https://amzn.to/46uS0iO",
+      "tier": "good",
+      "subtitle": "Budget + basic dust protection"
+    },
+    "home_ac_filter_generic.25x25x4.slotB": {
+      "name": "Filterbuy 25x25x4 (MERV 11)",
+      "retailer": "Amazon",
+      "asin": "B00CK04RXY",
+      "url": "https://amzn.to/4u3J3qz",
+      "tier": "better",
+      "subtitle": "Higher filtration (MERV 11)"
+    },
+    "home_ac_filter_generic.25x25x4.slotC": {
+      "name": "Aerostar 25x25x4 (MERV 13)",
+      "retailer": "Amazon",
+      "asin": "B07F1XS8TN",
+      "url": "https://amzn.to/4u0L6vt",
+      "tier": "best",
+      "subtitle": "Premium filtration (MERV 13)"
+    },
+    "home_fridge_water_filter_generic.lt1000p.slotA": {
+      "name": "LG LT1000P (OEM) — refrigerator water filter",
+      "retailer": "Amazon",
+      "asin": "B074HLRXMP",
+      "url": "https://amzn.to/3MVma80",
+      "tier": "better",
+      "subtitle": "Common for many LG fridges (verify compatibility)"
+    },
+    "home_fridge_water_filter_generic.hafcin.slotA": {
+      "name": "Samsung HAF-CIN/EXP (OEM) — refrigerator water filter",
+      "retailer": "Amazon",
+      "asin": "B004UB1NRY",
+      "url": "https://amzn.to/3P9rp4H",
+      "tier": "better",
+      "subtitle": "Common Samsung filter (verify compatibility)"
+    },
+    "home_fridge_water_filter_generic.rpwfe.slotA": {
+      "name": "Waterdrop replacement for GE RPWFE / RPWF (built-in CHIP) — refrigerator water filter",
+      "retailer": "Amazon",
+      "asin": "B0BTSZWTF4",
+      "url": "https://amzn.to/4l2oIOd",
+      "tier": "better",
+      "subtitle": "Compatible replacement for select GE fridges (verify compatibility + chip requirements)"
+    },
+    "home_fridge_water_filter_generic.xwf.slotA": {
+      "name": "GE XWFE (OEM) — refrigerator water filter",
+      "retailer": "Amazon",
+      "asin": "B0882ZJ48W",
+      "url": "https://amzn.to/4l5MAAL",
+      "tier": "better",
+      "subtitle": "Newer GE filter family (verify compatibility)"
+    },
+    "home_fridge_water_filter_generic.ultrawf.slotA": {
+      "name": "Frigidaire ULTRAWF (OEM) — refrigerator water filter",
+      "retailer": "Amazon",
+      "asin": "B002JAKRAM",
+      "url": "https://amzn.to/4cr4r2V",
+      "tier": "better",
+      "subtitle": "Common Frigidaire/Electrolux filter (verify compatibility)"
+    },
+    "home_fridge_water_filter_generic.everydrop1.slotA": {
+      "name": "everydrop Filter 1 (EDR1RXD1)",
+      "retailer": "Amazon",
+      "asin": "B00UXG4WR8",
+      "url": "https://amzn.to/4shQadq",
+      "tier": "better",
+      "subtitle": "Whirlpool/Maytag/KitchenAid family (verify compatibility)"
+    },
+    "home_fridge_water_filter_generic.everydrop2.slotA": {
+      "name": "everydrop Filter 2 (EDR2RXD1)",
+      "retailer": "Amazon",
+      "asin": "B00VBP8QPO",
+      "url": "https://amzn.to/4rMsTjY",
+      "tier": "better",
+      "subtitle": "Whirlpool/Maytag/KitchenAid family (verify compatibility)"
+    }
   }
 }
