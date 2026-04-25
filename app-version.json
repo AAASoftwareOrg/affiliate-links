@@ -1,11 +1,11 @@
 {
   "version": 1,
   "updatedAt": "2026-04-25T00:00:00.000Z",
-  "latestVersion": "0.1.3",
+  "latestVersion": "0.1.8",
   "appStoreUrl": "https://apps.apple.com/us/app/hometaskly/id6760602480",
   "message": "Update Hometaskly to get the latest fixes and improvements.",
   "ios": {
-    "latestVersion": "0.1.3",
+    "latestVersion": "0.1.8",
     "appStoreUrl": "https://apps.apple.com/us/app/hometaskly/id6760602480"
   }
 }
