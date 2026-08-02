@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "validate:amazon": "node scripts/validate-amazon-links.mjs"
+  }
+}
